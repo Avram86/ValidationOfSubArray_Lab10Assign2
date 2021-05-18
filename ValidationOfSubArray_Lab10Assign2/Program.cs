@@ -79,7 +79,7 @@ namespace ValidationOfSubArray_Lab10Assign2
                         else
                         {
                         isSubArray = false;
-                        break;
+                        continue;
                         }
                     }
             }
